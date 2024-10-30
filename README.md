@@ -1,2 +1,2 @@
-# MLR_and_Mediation-analysis
+# Mediation Analysis Module
 Multiple linear regression and Mediation analysis
